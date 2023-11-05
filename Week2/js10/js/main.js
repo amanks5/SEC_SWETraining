@@ -1,0 +1,1 @@
+let playGame = confirm("Shall we play rock, paper, or scissors?");
